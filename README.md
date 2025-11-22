@@ -30,23 +30,8 @@ The app generates detailed itineraries with PDFs and real-time travel insights.
 ### App UI
 
 <p align="center">
-  <img src="https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner/blob/main/demo%20images/image.png" width="45%">
-  <img src="https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner/blob/main/demo%20images/image1.png" width="45%">
-</p>
-
-<p align="center">
-  `<img src="https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner/blob/main/demo%20images/image2.png" width="45%">
-  <img src="https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner/blob/main/demo%20images/image3.png" width="45%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner/blob/main/demo%20images/image4.png" width="45%">
-  <img src="https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner/blob/main/demo%20images/image5.png" width="45%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner/blob/main/demo%20images/image6.png" width="45%">
-  <img src="https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner/blob/main/demo%20images/image7.png" width="45%">
+  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(403).png" width="45%">
+  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(404).png" width="45%">
 </p>
 
 <p align="center">
