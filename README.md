@@ -30,7 +30,7 @@ The app generates detailed itineraries with PDFs and real-time travel insights.
 ### App UI
 
 <p align="center">
-  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(403).png" width="45%">
+  <img src="https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner/blob/main/demo%20images/image.png" width="45%">
   <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(404).png" width="45%">
 </p>
 
