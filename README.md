@@ -23,7 +23,7 @@ The app generates detailed itineraries with PDFs and real-time travel insights.
 ## 🖼️ Screenshots
 
 ### Workflow Diagram
-![Workflow](https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/agent.png)
+![Workflow](https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner/blob/main/demo%20images/agent.png)
 
 ## 🖼️ Screenshots
 
@@ -69,8 +69,8 @@ The app generates detailed itineraries with PDFs and real-time travel insights.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ai-trip-advisor.git
-cd ai-trip-advisor
+git clone https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner.git
+cd AI-Multi-Agent-Trip-Planner
 ```
 
 ### 2. Create a Python environment (Python 3.10 recommended)
@@ -97,13 +97,6 @@ GOOGLE_API_KEY="your_google_gemini_api_key"
 TAVILY_API_KEY="your_tavily_api_key"
 ```
 
-### Configure Streamlit secrets in `.streamlit/secrets.toml`:
-```toml
-GOOGLE_API_KEY = "your_google_gemini_api_key"
-TAVILY_API_KEY = "your_tavily_api_key"
-
-
-```
 
 ---
 
