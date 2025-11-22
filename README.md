@@ -23,7 +23,7 @@ The app generates detailed itineraries with PDFs and real-time travel insights.
 ## 🖼️ Screenshots
 
 ### Workflow Diagram
-![Workflow]("https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner/blob/main/demo%20images/agent.png")
+![Workflow](https://github.com/PradeepdubeyAI/AI-Multi-Agent-Trip-Planner/blob/main/demo%20images/agent.png)
 
 ## 🖼️ Screenshots
 
